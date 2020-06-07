@@ -16,13 +16,14 @@
 
 ## => Site Settings
 ##############################
-text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
-highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
+text_skin: ocean # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
+highlight_theme: tomorrow # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Your Site Title
+title   : CH5's Technology(Reading?) Blogs
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  This is my technology and reading blog sets. Probably the second is the main course. 
+My mother language is not English and writing this blog is also probably practicing my writing English.
 
 
 ## => Language and Timezone
@@ -35,10 +36,10 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : Your Name
+  name      : CH5
   url       :
   avatar    : # path or url of avatar image (square)
-  bio       : I am an amazing person.
+  bio       : Nothing at all.
   email     :
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
@@ -55,7 +56,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: user_name/repo_name
+repository: permanentCH5/permanentCH5.github.io
 repository_tree: master
 
 
