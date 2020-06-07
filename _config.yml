@@ -22,8 +22,7 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : # does not include hostname
 title   : CH5's Technology(Reading?) Blogs
 description: > # this means to ignore newlines until "Language & timezone"
-  This is my technology and reading blog sets. Probably the second is the main course. 
-My mother language is not English and writing this blog is also probably practicing my writing English.
+  This is my technology and reading blog sets. Probably the second is the main course. My mother language is not English and writing this blog is also probably practicing my writing English.
 
 
 ## => Language and Timezone
