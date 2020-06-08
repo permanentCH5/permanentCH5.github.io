@@ -26,49 +26,43 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+# [CH5's Blog](https://github.com/permanentCH5/permanentCH5.github.io)
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+[![license](https://img.shields.io/badge/license-MIT-green)](https://github.com/permanentCH5/permanentCH5.github.io/blob/master/LICENSE)
+<!-- ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+![TeXt Theme Details](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-layouts.png) -->
+## Introduction
+This is a blog of CH5, with the theme of [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme)  (Many Thanks!). The blog is written in English(mainly for practicing my writing English) and then contents are mainly about papers I have read(Reading records) and the records about some tech problems I have met in my daily life(probably with some solutions). I will try to update this blog twice a week. I would like to share all of them in the Internet with MIT license. If you get interested and feel happy, I am glad too. Finally, Welcome to communicate with me by all means(e-mail, comments on github). 
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+## How to communicate with me?
+[Email] xiwu100@126.com  
+[Github] https://github.com/permanentCH5/permanentCH5.github.io
 
-## Features
+## Blog Tags
+- Papers
+- Problems
+- Time
 
+## Papers
 - Responsive
 - Semantic HTML
 - Skins
 - Highlight Theme
 - Internationalization
 - Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
 
-## Skins
 
-TeXt has 6 built-in skins, you can also set up your own skin.
+## Problems
+- How to build this blog?
 
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
+## Time
+- 2020-6
+- 2020-7
 
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
+## Acknowledgement
+Blog Theme : [TeXt](https://github.com/kitian616/jekyll-TeXt-theme) https://github.com/kitian616/jekyll-TeXt-theme  
 
-### Highlight Theme
+## License
 
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
+CH5's Blog is [MIT licensed](https://github.com/permanentCH5/permanentCH5.github.io/blob/master/LICENSE).
 
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
