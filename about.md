@@ -44,20 +44,13 @@ This is a blog of CH5, with the theme of [TeXt Theme](https://github.com/kitian6
 - Time
 
 ## Papers
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-
+- Attention Papers
 
 ## Problems
 - How to build this blog?
 
 ## Time
 - 2020-6
-- 2020-7
 
 ## Acknowledgement
 Blog Theme : [TeXt](https://github.com/kitian616/jekyll-TeXt-theme) https://github.com/kitian616/jekyll-TeXt-theme  
