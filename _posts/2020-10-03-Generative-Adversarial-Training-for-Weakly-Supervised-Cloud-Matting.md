@@ -90,7 +90,7 @@ Fig.3 The whole framework.
 The cloud generator(G) is responsible for generating (but I prefer to estimating) the cloud reflectance $\hat{r}_c$ and the attenuation $\hat{\alpha}$. The cloud discriminator is used to discriminate a generated image(fake) and a real image. The final cloud matting networks are used to reconstruct the cloud reflectance $\hat{r}_c$ and the generated cloud attenuation $\hat{\alpha}$. It should be noted that the generated variables are the attributions of the generated image $\hat{y}$, not the ones input cloud image $y$. Therefore, for cloud detection tasks, Cloud Matting Networks (F) are necessary. The supplementary materials have described this point.
 
 
-The loss settings are as follows. The whole loss is $\mathscr{L}(D,G,F)$, which consists of two parts, the adverserial loss $\mathscr{L}\_{adv}(D,G)$, and the cloud matting loss $\mathscr{L}_{matt}(F)$.
+The loss settings are as follows. The whole loss is $\mathscr{L}(D,G,F)$, which consists of two parts, the adverserial loss $\mathscr{L}_{adv}(D,G)$, and the cloud matting loss $\mathscr{L}_{matt}(F)$.
 
 
 $$
