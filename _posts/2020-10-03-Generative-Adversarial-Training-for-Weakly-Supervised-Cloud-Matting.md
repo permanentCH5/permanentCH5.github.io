@@ -1,4 +1,4 @@
-# Generative Adversarial Training for Weakly Supervised Cloud Matting. 
+
 
 [ICCV2019]Zou, Z., Li, W., Shi, T., Shi, Z., & Ye, J. (University of Michigan, Ann Arbor, Beihang University, NetEase Fuxi AI Lab and Didi Chuxing). Generative Adversarial Training for Weakly Supervised Cloud Matting.
 
