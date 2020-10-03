@@ -94,7 +94,7 @@ The loss settings are as follows. The whole loss is $\mathscr{L}(D,G,F)$, which 
 
 
 $$
-\mathscr{L}(D,G,F) = \mathscr{L}_{adv}(D,G) + \beta\mathscr{L}_{matt}(F)
+\mathscr{L}(D,G,F) = \mathscr{L}\_{adv}(D,G) + \beta\mathscr{L}\_{matt}(F)
 $$
 
 
