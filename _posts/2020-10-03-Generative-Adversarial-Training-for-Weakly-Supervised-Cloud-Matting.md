@@ -8,10 +8,10 @@
 This paper introduces a cloud matting method based on generative adversarial networks (GAN). The framework consists of a cloud discriminator(D), cloud generator(G) and a cloud matting network(F). It can generate cloud image and predict the cloud reflectance and the attenuation. The overview of this method is illustrated in Fig.1.
 
 
-<div align="center">![](https://picture18810693345.oss-cn-beijing.aliyuncs.com/img/20201003094700.png)
+![](https://picture18810693345.oss-cn-beijing.aliyuncs.com/img/20201003094700.png)
 
 
-<center>Fig.1 Overview of this method</center>
+Fig.1 Overview of this method
 
 
 Although I dislike the concept of weakly supervised training since it did not utilize the ground truth image, the generating method is still valuable and is a good example in related applications. 
@@ -54,9 +54,9 @@ Lutz, S., Amplianitis, K., & Smolic, A. (2018). Alphagan: Generative adversarial
 The imaging model is shown as Fig.2.
 
 
-<div align="center">![](https://picture18810693345.oss-cn-beijing.aliyuncs.com/img/20201003102912.png)
+![](https://picture18810693345.oss-cn-beijing.aliyuncs.com/img/20201003102912.png)
 
-<center>Fig.2 The imaging model</center>
+Fig.2 The imaging model
 
 
 What we see in a remote sensing image is in fact the energy receiving from the detecting sensor $\varepsilon_{sensor}$. This part of energy can be divided into three parts, the cloud reflectance energy $\varepsilon_{c}$, the ground reflectance $\varepsilon_{gr}$ ,and the ground surface radiation energy $\varepsilon_{gs}$. However, as the clouds cover the ground, the latter two parts of ground energy will be lost to some degree. To model this, atmospheric attenuation $\alpha$ is used. The whole cloud model is built as the following equation.
@@ -81,10 +81,11 @@ For cloud detection applications, the core tasks are finding ways to estimate $r
 The whole framework is as follows,
 
 
-<div align="center">![](https://picture18810693345.oss-cn-beijing.aliyuncs.com/img/20201003104620.png)
+![](https://picture18810693345.oss-cn-beijing.aliyuncs.com/img/20201003104620.png)
 
 
-<center>Fig.3 The whole framework.</center>
+Fig.3 The whole framework.
+
 
 The cloud generator(G) is responsible for generating (but I prefer to estimating) the cloud reflectance $\hat{r}_c$ and the attenuation $\hat{\alpha}$. The cloud discriminator is used to discriminate a generated image(fake) and a real image. The final cloud matting networks are used to reconstruct the cloud reflectance $\hat{r}_c$ and the generated cloud attenuation $\hat{\alpha}$. It should be noted that the generated variables are the attributions of the generated image $\hat{y}$, not the ones input cloud image $y$. Therefore, for cloud detection tasks, Cloud Matting Networks (F) are necessary. The supplementary materials have described this point.
 
@@ -114,20 +115,19 @@ $$
 The framework can solve many tasks including cloud detection, cloud removal, cloud montage(cloud image generation). The visualizations are as follows.
 
 
-<div align="center">![](https://picture18810693345.oss-cn-beijing.aliyuncs.com/img/20201003111106.png)
+![](https://picture18810693345.oss-cn-beijing.aliyuncs.com/img/20201003111106.png)
 
 
-<center>Fig.4 Cloud detection.</center> 
+Fig.4 Cloud detection.
 
 
-<div align="center">![](https://picture18810693345.oss-cn-beijing.aliyuncs.com/img/20201003111150.png)
+![](https://picture18810693345.oss-cn-beijing.aliyuncs.com/img/20201003111150.png)
 
 
-<center>Fig.5 Cloud removal.</center> 
+Fig.5 Cloud removal.
 
 
-<div align="center">![](https://picture18810693345.oss-cn-beijing.aliyuncs.com/img/20201003111211.png)
+![](https://picture18810693345.oss-cn-beijing.aliyuncs.com/img/20201003111211.png)
 
 
-<center>Fig.6 Cloud montage.</center> 
-
+Fig.6 Cloud montage.
