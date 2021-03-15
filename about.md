@@ -4,43 +4,32 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Current
+D719, Shahe Main Building, Beihang University
+9#, 3rd South Avenue, Shahe High Education Zone, Changping District, Beijing, China
+Ph.D. Student
+Major in Pattern Recognition and Intelligent System   2016-Present
+</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>C307, New Main Building, Beihang University
+37#, Xueyuan Road, Haidian District, Beijing, China
+Master Student
+Major in Pattern Recognition and Intelligent System   06/2016
 
-<h2>Skills</h2>
+Beihang University
+37#, Xueyuan Road, Haidian District, Beijing, China
+B.E. in School of Astronautics, 06/2015
+Major in Guidance, Navigation and Control.</p>
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+<h2>Research Interest</h2>
+<p>Object/scenery labeling(mainly segmentation) of remote sensing images</p>
+
+<h2>Publications</h2>
+<p>Xi Wu, Zhenwei Shi and Zhengxia Zou. A Geographic Information-driven Method and A New Large Scale Dataset for Remote Sensing Cloud/Snow Detection. ISPRS Journal of Photogrammetry and Remote Sensing, Volume 174, April 2021, pp. 87-104.（JCR-Q1，IF2020=7.319）</p>
+<p>Xi Wu, and Zhenwei Shi. Scene Aggregation Network for Cloud Detection on Sensing Imagery. IEEE Geoscience and Remote Sensing Letters, 2020.（JCR-Q1，IF2020=3.833）</p>
+<p>Xi Wu and Zhenwei Shi. Utilizing Multilevel Features for Cloud Detection on Satellite Imagery. Remote Sensing. 2018, 10(11), 1853. （JCR-Q1，IF2020=4.509）</p>
 
 <h2>Projects</h2>
-
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/permanentCH5/">Xi Wu</a></li>
 </ul>

@@ -14,7 +14,7 @@ picture: assets/images/xiwu.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://permanentCH5.github.io/cv.pdf
 
 url: https://permanentCH5.github.io
 # your url: https://USERNAME.github.io
@@ -56,7 +56,7 @@ email: xiwu1000@buaa.edu.cn
 authors:
   johndoe:
     name: Xi Wu
-    bio: A Timid Boy
+    bio: A Cautious Boy
     external-image: false
     picture: assets/images/xiwu.jpg
     twitter: none
