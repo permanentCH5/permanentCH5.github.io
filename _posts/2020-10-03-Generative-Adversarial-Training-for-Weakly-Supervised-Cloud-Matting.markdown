@@ -5,8 +5,7 @@ date: 2020-10-03 12:32
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- markdown
-- elements
+- paper reading
 star: true
 category: blog
 author: Xi Wu
