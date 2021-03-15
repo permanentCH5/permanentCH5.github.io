@@ -1,33 +1,13 @@
-# [CH5's Blog](https://github.com/permanentCH5/permanentCH5.github.io)
+# Vno - Jekyll
 
-[![license](https://img.shields.io/badge/license-MIT-green)](https://github.com/permanentCH5/permanentCH5.github.io/blob/master/LICENSE)
-<!-- ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
-![TeXt Theme Details](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-layouts.png) -->
-## Introduction
-This is a blog of CH5, with the theme of [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme)  (Many Thanks!). The blog is written in English(mainly for practicing my writing English) and then contents are mainly about papers I have read(Reading records) and the records about some tech problems I have met in my daily life(probably with some solutions). I will try to update this blog twice a week. I would like to share all of them in the Internet with MIT license. If you get interested and feel happy, I am glad too. Finally, Welcome to communicate with me by all means(e-mail, comments on github). 
+[Vno Jekyll](https://github.com/onevcat/vno-jekyll) is a theme for [Jekyll](http://jekyllrb.com). It is a port of my Ghost theme [vno](https://github.com/onevcat/vno), which is originally developed from [Dale Anthony's Uno](https://github.com/daleanthony/uno).
 
-## How to communicate with me?
-[Email] xiwu100@126.com  
-[Github] https://github.com/permanentCH5/permanentCH5.github.io
+## Live Demo
 
-## Blog Tags
-- Papers
-- Problems
-- Time
+See [Vno - Jekyll](http://vno.onevcat.com) site and [my blog](http://onevcat.com).
 
-## Papers
-- Attention Papers
+You can also find some instruction as well as other sites using Vno theme in [this page](http://vno.onevcat.com/2016/02/hello-world-vno/).
 
-## Problems
-- How to build this blog?
+## Licence
 
-## Time
-- 2020-6
-
-## Acknowledgement
-Blog Theme : [TeXt](https://github.com/kitian616/jekyll-TeXt-theme) https://github.com/kitian616/jekyll-TeXt-theme  
-
-## License
-
-CH5's Blog is [MIT licensed](https://github.com/permanentCH5/permanentCH5.github.io/blob/master/LICENSE).
-
+Great thanks to [Dale Anthony](https://github.com/daleanthony) and his [Uno](https://github.com/daleanthony/uno). Vno Jekyll is based on Uno, and contains a lot of modification on page layout, animation, font and some more things I can not remember. Vno Jekyll is followed with Uno and be licensed as [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/). See the link for more information.
