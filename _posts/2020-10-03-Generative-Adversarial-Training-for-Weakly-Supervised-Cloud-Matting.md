@@ -7,7 +7,7 @@ tag:
 - markdown
 - elements
 star: true
-category: bridge
+category: blog
 author: Xi Wu
 description: Markdown summary with different options
 
