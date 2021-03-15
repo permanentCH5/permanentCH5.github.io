@@ -1,5 +1,5 @@
 ---
-title: "Markdown Common Elements"
+title: "Generative Adversarial Training for Weakly Supervised Cloud Matting"
 layout: post
 date: 2020-10-03 12:32
 image: /assets/images/markdown.jpg
@@ -10,9 +10,8 @@ tag:
 star: true
 category: blog
 author: Xi Wu
-description: Markdown summary with different options
+description: paper reading
 ---
-
 
 [ICCV2019]Zou, Z., Li, W., Shi, T., Shi, Z., & Ye, J. (University of Michigan, Ann Arbor, Beihang University, NetEase Fuxi AI Lab and Didi Chuxing). Generative Adversarial Training for Weakly Supervised Cloud Matting.
 
